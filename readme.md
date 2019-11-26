@@ -4,6 +4,7 @@
     - data.gov.be
     - https://github.com/fedict/dcat
     - https://opendata.meteo.be/
+    - https://opendata.bosa.be/index.fr.html (BeST Adress)
   - Walloon Region
      - https://www.odwb.be
      - https://opendata.digitalwallonia.be
@@ -53,10 +54,19 @@ Download:
     - http://urbisdownload.gis.irisnet.be/fr/download/ (ECW )
     - http://www.geopunt.be/catalogus/datasetfolder/f5304d6d-0dd4-43fd-a726-427af31e8d61 (Jpeg 2000)
 
+Other
+  - https://statbel.fgov.be/en/open-data
+  - https://openaccess.be/open-access-in-belgium/open-data/
+  - https://diplomatie.belgium.be/fr/documentation/open_data
+
 Not open but may be useful
   - https://www.monrythmecardiaque.be/defibrilator.php
+
+Crowd in real time (not open)
+  - https://www.proximusanalytics.be/website/fr/solution/crowd-management
+  - https://now.brussels/
 
 Abroad  
   - europeandataportal.eu
 
-And many more: cafesig.ulb.ac.be/mod/resource/view.php?id=1001
+And many more: cafesig.ulb.ac.be/mod/resource/view.php?id=1001, https://be.okfn.org/belgian-open-data-portals/
