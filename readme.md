@@ -69,4 +69,6 @@ Crowd in real time (not open)
 Abroad  
   - europeandataportal.eu
 
+https://sig.spge.be/carto/home/
+
 And many more: cafesig.ulb.ac.be/mod/resource/view.php?id=1001, https://be.okfn.org/belgian-open-data-portals/
